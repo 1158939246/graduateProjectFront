@@ -5,7 +5,7 @@ import store from './store'
 
 Vue.config.productionTip = false
 
-///
+/// ni 阿萨
 new Vue({
   router,
   store,
